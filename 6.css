@@ -1,0 +1,31 @@
+@font-face{
+
+font-family: Galiver Sans;
+src: url("Fonts/GaliverSans.woff") format("woff"), url("Fonts/GaliverSans.woff2") format("woff2")
+}
+
+.main_link6 {
+	color: white;
+	text-decoration: none;
+	font-family: Galiver Sans;
+	font-size: 200%; 
+	text-align: left;
+}
+
+.main_link6:hover {
+	color: #FFDEAD;
+}
+
+
+
+
+font {
+font-family: Galiver Sans;
+text-decoration: none;
+
+
+}
+
+
+
+
